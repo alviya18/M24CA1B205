@@ -18,6 +18,6 @@ public class Pgm4 {
         Scanner sc=new Scanner(System.in);
         int n = sc.nextInt();
         Pgm4 p=new Pgm4();
-        System.err.println(n+" is Prime : "+p.primeOrNot(n));
+        System.out.println(n+" is Prime : "+p.primeOrNot(n));
     }
 }
