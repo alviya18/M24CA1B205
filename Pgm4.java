@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Pgm4 {
     public boolean primeOrNot(int num){
-        for(int i=1;i<Math.sqrt(num);i++){
+        for(int i=1;i<=Math.sqrt(num);i++){
             if(i%2==0){
                 return false;
             }
