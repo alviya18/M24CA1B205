@@ -57,9 +57,9 @@ public class Pgm14 {
                     break;
                 case 2:
                     if (ch == 1)
-                        System.out.println("Area : " + c.area());
+                        System.out.println("Area : " + r.area());
                     else if (ch == 2)
-                        System.out.println("Perimeter : " + c.perimeter());
+                        System.out.println("Perimeter : " + r.perimeter());
                     else
                         System.out.println("Invalid Choice");
                 default:
