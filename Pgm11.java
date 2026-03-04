@@ -3,6 +3,7 @@
 //Create a class Teacher that inherits from Employee with data members - TeacherId, Subject and Department.
 //Demonstrate using N Teachers.
 import java.util.Scanner;
+
 class Person {
     String name;
     String gender;
